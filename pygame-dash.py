@@ -1,6 +1,3 @@
-# Add "Mx-El" on GitHub as a contributor
-
-
 import sys
 
 import pygame
