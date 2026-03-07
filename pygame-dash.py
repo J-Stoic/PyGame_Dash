@@ -77,7 +77,7 @@ def load_level(level_num):
         platforms = [
             pygame.Rect(0, GROUND_Y, WIDTH, HEIGHT - GROUND_Y),
             pygame.Rect(200, 360, 120, 20),
-            pygame.Rect(370, 300, 20, 120),
+            pygame.Rect(370, 325, 20, 120),
             pygame.Rect(450, 250, 120, 20),
             pygame.Rect(650, 200, 20, 140),
             pygame.Rect(730, 150, 140, 20),
